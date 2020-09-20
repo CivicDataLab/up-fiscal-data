@@ -43,7 +43,7 @@ I hope you find value in the repository. Please share this as a resource with an
 
 ## Inspiration
 
-Thank you to the following resources for guiding our CONTRIBUTING.md structure:
+Thank you to the following resources for guiding our `CONTRIBUTING.md` structure:
 
 1. [Wrangling Web Contributions: How to Build a CONTRIBUTING.md](https://mozillascience.github.io/working-open-workshop/contributing/)
 2. [Contributing to Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)

@@ -4,20 +4,20 @@ This repository is intended as a master document for scoping and extracting the 
 
 ## Table of Contents
 
-[Background]()
+[Background](https://github.com/CivicDataLab/up-fiscal-data#background)
 - CivicDataLab
 - OpenBudgetsIndia
 - Girl Education
 
-[Methodology]()
+[Methodology](https://github.com/CivicDataLab/up-fiscal-data#methodology)
 - Active Threads
 - Activity X
 
-[Contributions]()
+[Contributions](https://github.com/CivicDataLab/up-fiscal-data#contributions)
 
-[Repo Structure]()
+[Repo Structure](https://github.com/CivicDataLab/up-fiscal-data#repo-structure)
 
-[License]()
+[License](https://github.com/CivicDataLab/up-fiscal-data#license)
 
 ## Background
 

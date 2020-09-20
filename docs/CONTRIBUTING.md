@@ -1,4 +1,4 @@
-# Contributing to Education
+# Contributing
 
 Thank you for taking the time to contribute!
 
@@ -6,16 +6,16 @@ The following is a set of guidelines for contributing to contribute to the `up-f
 
 ## Table of Contents
 
-[Code of Conduct]()
+[Code of Conduct](https://github.com/CivicDataLab/up-fiscal-data/blob/master/docs/CONTRIBUTING.md#code-of-conduct)
 
-[TL;DR]()
+[TL;DR](https://github.com/CivicDataLab/up-fiscal-data/blob/master/docs/CONTRIBUTING.md#tldr)
 
-[Active Threads]()
+[Active Threads](https://github.com/CivicDataLab/up-fiscal-data/blob/master/docs/CONTRIBUTING.md#active-threads)
 
-[Contribute]()
+[Contribute](https://github.com/CivicDataLab/up-fiscal-data/blob/master/docs/CONTRIBUTING.md#contribute)
 - Pull Requests
 
-[Not a Contributor]()
+[Not a Contributor](https://github.com/CivicDataLab/up-fiscal-data/blob/master/docs/CONTRIBUTING.md#not-a-contributor)
 
 ## Code of Conduct
 

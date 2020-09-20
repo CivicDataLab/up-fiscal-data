@@ -13,7 +13,7 @@ The following is a set of guidelines for contributing to contribute to the `up-f
 [Active Threads]()
 
 [Contribute]()
-* Pull Requests
+- Pull Requests
 
 [Not a Contributor]()
 

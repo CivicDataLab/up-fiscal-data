@@ -5,13 +5,13 @@ This repository is intended as a master document for scoping and extracting the 
 ## Table of Contents
 
 [Background]()
-* CivicDataLab
-* OpenBudgetsIndia
+- CivicDataLab
+- OpenBudgetsIndia
 * Girl Education
 
 [Methodology]()
-* Active Threads
-* Activity X
+- Active Threads
+- Activity X
 
 [Contributions]()
 
@@ -40,7 +40,7 @@ With regards to the projects mentioned above and beyond, CDL is conducting the e
 ### Activity X
 Things we want to do in the future.
 
-<< TBD >>
+`<< TBD >>`
 
 ## Contributions
 

@@ -7,7 +7,7 @@ This repository is intended as a master document for scoping and extracting the 
 [Background]()
 - CivicDataLab
 - OpenBudgetsIndia
-* Girl Education
+- Girl Education
 
 [Methodology]()
 - Active Threads

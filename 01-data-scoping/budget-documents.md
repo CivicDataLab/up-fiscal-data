@@ -1,6 +1,6 @@
-# Data Scoping
+# Budget Documents
 
-Scoping the Uttar Pradesh fiscal data through documents and portals.
+Understanding the structure of Uttar Pradesh budget documents.
 
 ## Table of Contents
 
@@ -14,8 +14,8 @@ Scoping the Uttar Pradesh fiscal data through documents and portals.
 
 ## Platform
 
-**Platfrom Name** : Budget - Government of Uttar Pradesh
-**Platform URL** : http://budget.up.nic.in/
+**Platfrom Name** : Budget - Government of Uttar Pradesh  
+**Platform URL** : http://budget.up.nic.in/  
 **Data Formats** : Portable Document Format (PDF)
 
 ## Contents
@@ -33,14 +33,14 @@ The platform contains the following budget documents for the state of Uttar Prad
 
 The budget document **_[2020-2021 Khand-2(part1)-Annual Financial Statement](http://budget.up.nic.in/khand2part1/khand2part1_2020_2021.pdf)_** discloses the budget structure, providing with the detailed list of accounting heads and related metrics.
 
-The following was verified through the **_[2020-2021 Khand-2(part2)-Memorandum On Grant Wise Demand](http://budget.up.nic.in/khand2part2/khand2part2_2020_2021.pdf)_** and **_[Grant Wise Budget Estimates](http://budget.up.nic.in/GrantWisepdf.html)_**
+The following was verified through the **_[2020-2021 Khand-2(part2)-Memorandum On Grant Wise Demand](http://budget.up.nic.in/khand2part2/khand2part2_2020_2021.pdf)_** and **_[Grant Wise Budget Estimates](http://budget.up.nic.in/GrantWisepdf.html)_**.
 
 ## Structure
 
 ### Variables
 
 | Accounting Head (Code Length) | Accounting Head (English) | Accounting Head (Hindi) |
-|---|:---:|---|
+|:---:|---|---|
 | `000` | Grant | अनुदान |
 | `0000` | Major Head | मुख्य शीर्ष |
 | `00` | Sub Major Head | उप मुख्य शीर्ष |

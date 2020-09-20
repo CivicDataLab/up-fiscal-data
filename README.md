@@ -50,6 +50,7 @@ You can refer to the [contributing guidelines](https://github.com/CivicDataLab/u
 
 ```
 root
+└── 00-docs/
 └── 01-data-scoping/
 └── 02-data-scraping/
 └── LICENSE.md

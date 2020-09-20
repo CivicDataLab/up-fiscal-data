@@ -35,7 +35,7 @@ You can refer to contributing guidelines shared [here]() to understand how to co
 
 ### Pull Requests
 
-We are always accepting improvements through [pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests). Please refer the guide below before you create your own.
+We are always accepting improvements through [pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
 ## Not a Contributor
 

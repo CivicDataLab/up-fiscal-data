@@ -34,8 +34,8 @@ CDL is also partnering with HAQ: Centre for Child Rights ([HAQ-CRC](https://www.
 With regards to the projects mentioned above and beyond, CDL is conducting the exercise of scoping and extracting the related fiscal data for the state of Uttar Pradesh.
 
 ### Active Threads
-- [**Activity 01**]() : Understanding and scoping the fiscal data through official documents and platforms.
-- [**Activity 02**]() : Extracting scoped data from target platforms in machine readable formats.
+- [**Activity 01**](https://github.com/CivicDataLab/up-fiscal-data/tree/master/01-data-scoping) : Understanding and scoping the fiscal data through official documents and platforms.
+- [**Activity 02**](https://github.com/CivicDataLab/up-fiscal-data/tree/master/02-data-scraping) : Extracting scoped data from target platforms in machine readable formats.
 
 ### Activity X
 Things we want to do in the future.
@@ -44,7 +44,7 @@ Things we want to do in the future.
 
 ## Contributions
 
-You can refer to the [contributing guidelines]() and understand how to contribute.
+You can refer to the [contributing guidelines](https://github.com/CivicDataLab/up-fiscal-data/blob/master/docs/CONTRIBUTING.md) and understand how to contribute.
 
 ## Repo Structure
 

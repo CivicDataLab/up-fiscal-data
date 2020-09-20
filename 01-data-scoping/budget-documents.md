@@ -4,19 +4,19 @@ Understanding the structure of Uttar Pradesh budget documents.
 
 ## Table of Contents
 
-[Platform]()
+[Platform](https://github.com/CivicDataLab/up-fiscal-data/blob/master/01-data-scoping/budget-documents.md#platform)
 
-[Contents]()
+[Contents](https://github.com/CivicDataLab/up-fiscal-data/blob/master/01-data-scoping/budget-documents.md#contents)
 
-[Research]()
+[Research](https://github.com/CivicDataLab/up-fiscal-data/blob/master/01-data-scoping/budget-documents.md#research)
 
-[Structure]()
+[Structure](https://github.com/CivicDataLab/up-fiscal-data/blob/master/01-data-scoping/budget-documents.md#structure)
 
 ## Platform
 
 **Platfrom Name** : Budget - Government of Uttar Pradesh  
 **Platform URL** : http://budget.up.nic.in/  
-**Data Formats** : Portable Document Format (PDF)
+**Data Formats** : Portable Document - `.PDF`
 
 ## Contents
 

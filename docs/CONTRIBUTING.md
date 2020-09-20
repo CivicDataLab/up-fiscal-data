@@ -27,7 +27,7 @@ Don't do anything that you wouldn't do in a real life work space. Thank you! :)
 
 ## Active Threads
 
-Please refer to the [Methodology]() section in the project `[README.md]()` to understand active areas of contribution.
+Please refer to the [Methodology](https://github.com/CivicDataLab/up-fiscal-data#methodology) section in the project `[README.md](https://github.com/CivicDataLab/up-fiscal-data)` to understand active areas of contribution.
 
 ## Contribute
 

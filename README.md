@@ -5,9 +5,13 @@ This repository is intended as a master document for scoping and extracting the 
 ## Table of Contents
 
 [Background]()
-* Background
+* CivicDataLab
+* OpenBudgetsIndia
+* Girl Education
 
 [Methodology]()
+* Active Threads
+* Activity X
 
 [Contributions]()
 
@@ -29,12 +33,14 @@ CDL is also partnering with HAQ: Centre for Child Rights ([HAQ-CRC](https://www.
 ## Methodology
 With regards to the projects mentioned above and beyond, CDL is conducting the exercise of scoping and extracting the related fiscal data for the state of Uttar Pradesh.
 
+### Active Threads
 - [**Activity 01**]() : Understanding and scoping the fiscal data through official documents and platforms.
 - [**Activity 02**]() : Extracting scoped data from target platforms in machine readable formats.
 
 ### Activity X
 Things we want to do in the future.
-- Analyse the data from 
+
+<< TBD >>
 
 ## Contributions
 

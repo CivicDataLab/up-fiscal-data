@@ -68,18 +68,30 @@ The platform contains the following budgetary data information, amongst other th
 
 The following sections are required to be extraced based on the research.
 
-| Section | Rationale |
-|---|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| Section | Rationale | Priority |
+|---|---|---|
+| Grant-wise (Revenue/Capital) expenditure | Evaluate and verify expenditure breakup. |   |
+| Grant & Major Head-wise expenditure | Master list of Major Heads and Codes under each grant. |   |
+| Budgetary scheme expenditure | Master list of all schemes under various grants. |   |
+| DDO-wise expenditure | Extract all levels of accounting head of spending information. |   |
+| Division-wise expenditure | Master list of all disticts and spending under each treasury. |   |
+| Department wise Expenditure | Contributions of Tribal Welfare and Scheduled Castes spending for each grant. |   |
+| PFMS Expenditure Detail | Central Scheme code to State scheme code connection. |   |
 
 ## Reciepts
 
 ### Research
 
+- 
+
 ### Opservation
 
+
+
 ### Scope
+
+The following sections are required to be extraced based on the research.
+
+| Section | Rationale |
+|---|---|
+|   |   |

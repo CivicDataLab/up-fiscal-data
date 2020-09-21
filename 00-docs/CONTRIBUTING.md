@@ -6,20 +6,20 @@ The following is a set of guidelines for contributing to contribute to the `up-f
 
 ## Table of Contents
 
-[Code of Conduct](https://github.com/CivicDataLab/up-fiscal-data/blob/master/docs/CONTRIBUTING.md#code-of-conduct)
+[Code of Conduct](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/CONTRIBUTING.md#code-of-conduct)
 
-[TL;DR](https://github.com/CivicDataLab/up-fiscal-data/blob/master/docs/CONTRIBUTING.md#tldr)
+[TL;DR](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/CONTRIBUTING.md#tldr)
 
-[Active Threads](https://github.com/CivicDataLab/up-fiscal-data/blob/master/docs/CONTRIBUTING.md#active-threads)
+[Active Threads](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/CONTRIBUTING.md#active-threads)
 
-[Contribute](https://github.com/CivicDataLab/up-fiscal-data/blob/master/docs/CONTRIBUTING.md#contribute)
+[Contribute](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/CONTRIBUTING.md#contribute)
 - Pull Requests
 
-[Not a Contributor](https://github.com/CivicDataLab/up-fiscal-data/blob/master/docs/CONTRIBUTING.md#not-a-contributor)
+[Not a Contributor](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/CONTRIBUTING.md#not-a-contributor)
 
 ## Code of Conduct
 
-Our code of conduct has been inspired by [Contributor Covenant](https://www.contributor-covenant.org/). You can find the same [here]().
+Our code of conduct has been inspired by [Contributor Covenant](https://www.contributor-covenant.org/). You can find the same [here](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/CODE-OF-CONDUCT.md).
 
 ## TL;DR
 
@@ -31,7 +31,7 @@ Please refer to the [Methodology](https://github.com/CivicDataLab/up-fiscal-data
 
 ## Contribute
 
-You can refer to contributing guidelines shared [here]() to understand how to contribute.
+You can contribute by evaluating the methodoly or the code. Improvements to both are welcome.
 
 ### Pull Requests
 

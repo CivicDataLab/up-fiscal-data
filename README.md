@@ -44,7 +44,7 @@ Things we want to do in the future.
 
 ## Contributions
 
-You can refer to the [contributing guidelines](https://github.com/CivicDataLab/up-fiscal-data/blob/master/docs/CONTRIBUTING.md) and understand how to contribute.
+You can refer to the [contributing guidelines](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/CONTRIBUTING.md) and understand how to contribute.
 
 ## Repo Structure
 
@@ -52,6 +52,7 @@ You can refer to the [contributing guidelines](https://github.com/CivicDataLab/u
 root
 └── 00-docs/
 └── 01-data-scoping/
+└── 02-data-scraping/
 └── 02-data-scraping/
 └── LICENSE.md
 └── README.md

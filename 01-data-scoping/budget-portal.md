@@ -68,30 +68,18 @@ The platform contains the following budgetary data information, amongst other th
 
 The following sections are required to be extraced based on the research.
 
+The priorty scale goes from `Level 1` to `Level 4`. A [phased approach](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/decisions/005-phases.md) is being taken to ensure a sustainable architecture. 
+
 | Section | Rationale | Priority |
 |---|---|---|
-| Grant-wise (Revenue/Capital) expenditure | Evaluate and verify expenditure breakup. |   |
-| Grant & Major Head-wise expenditure | Master list of Major Heads and Codes under each grant. |   |
-| Budgetary scheme expenditure | Master list of all schemes under various grants. |   |
-| DDO-wise expenditure | Extract all levels of accounting head of spending information. |   |
-| Division-wise expenditure | Master list of all disticts and spending under each treasury. |   |
-| Department wise Expenditure | Contributions of Tribal Welfare and Scheduled Castes spending for each grant. |   |
-| PFMS Expenditure Detail | Central Scheme code to State scheme code connection. |   |
+| DDO-wise expenditure | Extract all levels of accounting head of spending information. | `Level 1` |
+| PFMS Expenditure Detail | Central Scheme code to State scheme code connection. | `Level 1` |
+| Grant & Major Head-wise expenditure | Master list of Major Heads and Codes under each grant. | `Level 2` |
+| Budgetary scheme expenditure | Master list of all schemes under various grants. | `Level 2` |
+| Division-wise expenditure | Master list of all disticts and spending under each treasury. | `Level 3` |
+| Grant-wise (Revenue/Capital) expenditure | Evaluate and verify expenditure breakup. | `Level 3` |
+| Department wise Expenditure | Contributions of Tribal Welfare and Scheduled Castes spending for each grant. | `Level 4` |
 
-## Reciepts
+## Receipts
 
-### Research
-
-- 
-
-### Opservation
-
-
-
-### Scope
-
-The following sections are required to be extraced based on the research.
-
-| Section | Rationale |
-|---|---|
-|   |   |
+Receipts data out of scope for the current exercise. Check out `[ADR -004](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/decisions/004-receipts.md)` for more info.

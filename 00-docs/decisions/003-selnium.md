@@ -9,6 +9,7 @@ Decision required on the framework to be used to scrape and store data from the 
 ## Decision Drivers
 
 - Structure of the Koshvani platform
+- Platfrom links do not reflect selection criteria
 - Automation job requirements for data scraping
 - Periodical jobs and access to new data
 

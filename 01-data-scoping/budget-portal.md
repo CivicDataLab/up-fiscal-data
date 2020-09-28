@@ -82,4 +82,4 @@ The priorty scale goes from `Level 1` to `Level 4`. A [phased approach](https://
 
 ## Receipts
 
-Receipts data out of scope for the current exercise. Check out `[ADR -004](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/decisions/004-receipts.md)` for more info.
+Receipts data out of scope for the current exercise. Check out [`ADR-004`](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/decisions/004-receipts.md) for more info.

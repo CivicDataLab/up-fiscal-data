@@ -1,14 +1,13 @@
-#Importing packages
-from selenium import webdriver
-from webdriver_manager.chrome import ChromeDriverManager
+import csv
+import os
 import pandas as pd
 import pdb
 import time 
-import os
-import csv
-import glob
+from selenium import webdriver
 from selenium.webdriver.support.ui import Select
-from utils import section_selector,sel_elem_to_links, path_generator_dir_maker, table_to_csv , add_columns
+from webdriver_manager.chrome import ChromeDriverManager
+from utils import section_selector,sel_elem_to_links, path_generator_dir_maker, table_download , add_columns
+
 
 #defining fiscal year and base folder to download data in
 fiscal_year = "2019-2020"

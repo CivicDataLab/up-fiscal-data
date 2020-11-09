@@ -80,6 +80,13 @@ The priorty scale goes from `Level 1` to `Level 4`. A [phased approach](https://
 | Grant-wise (Revenue/Capital) expenditure | Evaluate and verify expenditure breakup. | `Level 3` |
 | Department wise Expenditure | Contributions of Tribal Welfare and Scheduled Castes spending for each grant. | `Level 4` |
 
+**Note**: For the following sections only the main page (first level of data) is being extracted to avoid data duplicacy.
+
+- `Grant-wise (Revenue/Capital) expenditure`  
+- `Division-wise expenditure`
+
+Please refer to the linked decision [`ADR-007`](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/decisions/007-rescoping.md) for more details.
+
 ## Receipts
 
 Receipts data out of scope for the current exercise. Check out [`ADR-004`](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/decisions/004-receipts.md) for more info.

@@ -70,11 +70,11 @@ The platform contains the following budgetary data information, amongst other th
 
 The following sections are required to be extraced based on the research.
 
-The priorty scale goes from `Level 1` to `Level 4`. A [phased approach](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/decisions/005-phases.md) is being taken to ensure a sustainable architecture. 
+The priorty scale goes from `Level 1` to `Level 4`. A [phased approach](https://github.com/CivicDataLab/up-fiscal-data/blob/master/decisions/005-phases.md) is being taken to ensure a sustainable architecture. 
 
 | Section | Rationale | Priority |
 |---|---|---|
-| DDO-wise expenditure | Extract all levels of accounting head of spending information. | `Level 1` |
+| Grant-wise expenditure | Extract all levels of accounting head of spending information. | `Level 1` |
 | PFMS Expenditure Detail | Central Scheme code to State scheme code connection. | `Level 1` |
 | Grant & Major Head-wise expenditure | Master list of Major Heads and Codes under each grant. | `Level 2` |
 | Budgetary scheme expenditure | Master list of all schemes under various grants. | `Level 2` |
@@ -87,8 +87,8 @@ The priorty scale goes from `Level 1` to `Level 4`. A [phased approach](https://
 - `Grant-wise (Revenue/Capital) expenditure`  
 - `Division-wise expenditure`
 
-Please refer to the linked decision [`ADR-007`](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/decisions/007-rescoping.md) for more details.
+Please refer to the linked decision [`ADR-007`](https://github.com/CivicDataLab/up-fiscal-data/blob/master/decisions/007-rescoping.md) for more details.
 
 ## Receipts
 
-Receipts data out of scope for the current exercise. Check out [`ADR-004`](https://github.com/CivicDataLab/up-fiscal-data/blob/master/00-docs/decisions/004-receipts.md) for more info.
+Receipts data out of scope for the current exercise. Check out [`ADR-004`](https://github.com/CivicDataLab/up-fiscal-data/blob/master/decisions/004-receipts.md) for more info.

@@ -4,11 +4,11 @@ Scoping the Uttar Pradesh fiscal data through the digital portal.
 
 ## Table of Contents
 
-[Platform](https://github.com/CivicDataLab/up-fiscal-data/blob/master/01-data-scoping/budget-portal.md#platform)
+[Platform](https://github.com/CivicDataLab/up-fiscal-data/blob/master/data-scoping/budget-portal.md#platform)
 
-[Contents](https://github.com/CivicDataLab/up-fiscal-data/blob/master/01-data-scoping/budget-portal.md#contents)
+[Contents](https://github.com/CivicDataLab/up-fiscal-data/blob/master/data-scoping/budget-portal.md#contents)
 
-[Expenditure](https://github.com/CivicDataLab/up-fiscal-data/blob/master/01-data-scoping/budget-portal.md#expenditure)
+[Expenditure](https://github.com/CivicDataLab/up-fiscal-data/blob/master/data-scoping/budget-portal.md#expenditure)
 - Research
 - Observation
 - Scope
@@ -17,6 +17,8 @@ Scoping the Uttar Pradesh fiscal data through the digital portal.
 - Research
 - Observation
 - Scope
+
+## Platform
 
 **Platfrom Name** : Koshvani web -- A Gateway to Finance Activities in the State of Uttar Pradesh  
 **Platform URL** : http://koshvani.up.nic.in/  

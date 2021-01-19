@@ -36,12 +36,12 @@ With regards to the projects mentioned above and beyond, CDL is conducting the e
 ### Active Threads
 - [**Activity 01**](https://github.com/CivicDataLab/up-fiscal-data/tree/master/data-scoping) : Understanding and scoping the fiscal data through official documents and platforms.
 - [**Activity 02**](https://github.com/CivicDataLab/up-fiscal-data-backend) : Extracting scoped data from target platforms in machine readable formats.
+- [**Activity 03**](https://github.com/CivicDataLab/up-fiscal-data-explore) : Cleaning, exloring and analysing the data extracted for budgetary insights.
 
 ### Activity X
 
 Upcoming activities on the project.
 
-- Exploratory data analysis for the extracted budget expenditure data.
 - Front-end platform development to visualise and present the findings.
 
 ## Contributions

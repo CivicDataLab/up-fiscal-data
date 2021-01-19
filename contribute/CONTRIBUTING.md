@@ -19,7 +19,7 @@ The following is a set of guidelines for contributing to contribute to the `up-f
 
 ## Code of Conduct
 
-Our code of conduct has been inspired by [Contributor Covenant](https://www.contributor-covenant.org/). You can find the same [here](https://github.com/CivicDataLab/up-fiscal-data/blob/master/contribute/CODE-OF-CONDUCT.md).
+Our code of conduct has been inspired by [Contributor Covenant](https://www.contributor-covenant.org/). You can find the same [here](https://github.com/CivicDataLab/up-fiscal-data/blob/main/contribute/CODE-OF-CONDUCT.md).
 
 ## TL;DR
 

@@ -4,16 +4,16 @@ Scoping the Uttar Pradesh fiscal data through the digital portal.
 
 ## Table of Contents
 
-[Platform](https://github.com/CivicDataLab/up-fiscal-data/blob/master/data-scoping/budget-portal.md#platform)
+[Platform](https://github.com/CivicDataLab/up-fiscal-data/blob/main/data-scoping/budget-portal.md#platform)
 
-[Contents](https://github.com/CivicDataLab/up-fiscal-data/blob/master/data-scoping/budget-portal.md#contents)
+[Contents](https://github.com/CivicDataLab/up-fiscal-data/blob/main/data-scoping/budget-portal.md#contents)
 
-[Expenditure](https://github.com/CivicDataLab/up-fiscal-data/blob/master/data-scoping/budget-portal.md#expenditure)
+[Expenditure](https://github.com/CivicDataLab/up-fiscal-data/blob/main/data-scoping/budget-portal.md#expenditure)
 - Research
 - Observation
 - Scope
 
-[Reciepts](https://github.com/CivicDataLab/up-fiscal-data/blob/master/01-data-scoping/budget-portal.md#reciepts)
+[Reciepts](https://github.com/CivicDataLab/up-fiscal-data/blob/main/01-data-scoping/budget-portal.md#reciepts)
 - Research
 - Observation
 - Scope
@@ -64,13 +64,13 @@ The platform contains the following budgetary data information, amongst other th
 
 - Grant # `081 - Social Welfare Department (Tribal Welfare)` & `083 - Social Welfare Department (Special Component Scheme for Scheduled Castes)` spending is spread across other grant heads, which can be observed under
 - Various _Major Head_, _Scheme List_ and _Ditrict / Treasury_ information in available in seperate tables for data regularly and cimpletion.
-- Scheme Codes in various sections will reuqires to be broken down by Budget Variables discovered in the document [analysis](https://github.com/CivicDataLab/up-fiscal-data/blob/master/01-data-scoping/budget-documents.md#structure).
+- Scheme Codes in various sections will reuqires to be broken down by Budget Variables discovered in the document [analysis](https://github.com/CivicDataLab/up-fiscal-data/blob/main/01-data-scoping/budget-documents.md#structure).
 
 ### Scope
 
 The following sections are required to be extraced based on the research.
 
-The priorty scale goes from `Level 1` to `Level 4`. A [phased approach](https://github.com/CivicDataLab/up-fiscal-data/blob/master/decisions/005-phases.md) is being taken to ensure a sustainable architecture. 
+The priorty scale goes from `Level 1` to `Level 4`. A [phased approach](https://github.com/CivicDataLab/up-fiscal-data/blob/main/decisions/005-phases.md) is being taken to ensure a sustainable architecture. 
 
 | Section | Rationale | Priority |
 |---|---|---|
@@ -87,8 +87,8 @@ The priorty scale goes from `Level 1` to `Level 4`. A [phased approach](https://
 - `Grant-wise (Revenue/Capital) expenditure`  
 - `Division-wise expenditure`
 
-Please refer to the linked decision [`ADR-007`](https://github.com/CivicDataLab/up-fiscal-data/blob/master/decisions/007-rescoping.md) for more details.
+Please refer to the linked decision [`ADR-007`](https://github.com/CivicDataLab/up-fiscal-data/blob/main/decisions/007-rescoping.md) for more details.
 
 ## Receipts
 
-Receipts data out of scope for the current exercise. Check out [`ADR-004`](https://github.com/CivicDataLab/up-fiscal-data/blob/master/decisions/004-receipts.md) for more info.
+Receipts data out of scope for the current exercise. Check out [`ADR-004`](https://github.com/CivicDataLab/up-fiscal-data/blob/main/decisions/004-receipts.md) for more info.

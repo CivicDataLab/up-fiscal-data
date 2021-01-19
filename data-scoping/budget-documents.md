@@ -4,13 +4,13 @@ Understanding the structure of Uttar Pradesh budget documents.
 
 ## Table of Contents
 
-[Platform](https://github.com/CivicDataLab/up-fiscal-data/blob/master/data-scoping/budget-documents.md#platform)
+[Platform](https://github.com/CivicDataLab/up-fiscal-data/blob/main/data-scoping/budget-documents.md#platform)
 
-[Contents](https://github.com/CivicDataLab/up-fiscal-data/blob/master/data-scoping/budget-documents.md#contents)
+[Contents](https://github.com/CivicDataLab/up-fiscal-data/blob/main/data-scoping/budget-documents.md#contents)
 
-[Research](https://github.com/CivicDataLab/up-fiscal-data/blob/master/data-scoping/budget-documents.md#research)
+[Research](https://github.com/CivicDataLab/up-fiscal-data/blob/main/data-scoping/budget-documents.md#research)
 
-[Structure](https://github.com/CivicDataLab/up-fiscal-data/blob/master/data-scoping/budget-documents.md#structure)
+[Structure](https://github.com/CivicDataLab/up-fiscal-data/blob/main/data-scoping/budget-documents.md#structure)
 
 ## Platform
 

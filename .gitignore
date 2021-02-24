@@ -38,6 +38,3 @@ rsconnect/
 
 # .DS_Store
 **/.DS_Store
-
-# R Project
-up-fiscal-data.Rproj

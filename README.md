@@ -22,7 +22,7 @@ This repository is intended as a master document for scoping and extracting the 
 ## Background
 
 ### CivicDataLab
-CivicDataLab ([CDL](https://civicdatalab.in/)) works with the goal to use data, tech, design and social science to strengthen the course of civic engagements in India. We work to harness the potential of open-source movement to enable citizens to engage better with public reforms. We aim to grow data and tech literacy of governments, nonprofits, think-tanks, media houses, universities etc to enable data-driven decision making at scale. 
+CivicDataLab ([CDL](https://civicdatalab.in/)) works with the goal to use data, tech, design and social science to strengthen the course of civic engagements in India. We work to harness the potential of open-source movement toggit  enable citizens to engage better with public reforms. We aim to grow data and tech literacy of governments, nonprofits, think-tanks, media houses, universities etc to enable data-driven decision making at scale. 
 
 ### OpenBudgetsIndia
 CDL, in partnership with Centre for Budget and Governance Accountability ([CBGA](https://www.cbgaindia.org/)), developed Open Budgets India ([OBI](https://openbudgetsindia.org/)), a comprehensive and user-friendly open data portal that can facilitate free, easy and timely access to relevant data on government budgets in India. The portal provides budget information of different tiers of government in India (Union Budget, State Budgets, and Budgets of several Municipal Corporations across the country) in accessible and open (non-proprietary) formats.
@@ -37,12 +37,13 @@ With regards to the projects mentioned above and beyond, CDL is conducting the e
 - [**Activity 01**](https://github.com/CivicDataLab/up-fiscal-data/tree/main/data-scoping) : Understanding and scoping the fiscal data through official documents and platforms.
 - [**Activity 02**](https://github.com/CivicDataLab/up-fiscal-data-backend) : Extracting scoped data from target platforms in machine readable formats.
 - [**Activity 03**](https://github.com/CivicDataLab/up-fiscal-data-explore) : Cleaning, exloring and analysing the data extracted for budgetary insights.
+- [**Activity 04**](https://github.com/CivicDataLab/up-fiscal-data-shiny) : Building the interative exploration and story telling dashboard for the tracker.
 
 ### Activity X
 
 Upcoming activities on the project.
 
-- Front-end platform development to visualise and present the findings.
+`<< TBD >>`
 
 ## Contributions
 

@@ -4,7 +4,7 @@
 
 ## Context and Problem Statement
 
-The GEWST project with HAQ: CRS has a platform development component, which includes creating exploratory dasboard and conducting analysis on an interactive dashboard.
+The GEWST project with HAQ: CRC has a platform development component, which includes creating exploratory dasboard and conducting analysis on an interactive dashboard.
 
 ## Decision Drivers
 
